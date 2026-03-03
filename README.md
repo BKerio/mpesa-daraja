@@ -1,4 +1,4 @@
-# M-Pesa Payment Integration
+# M-Pesa Daraja Full guide Django and Express.JS Payment Integration
 
 This project provides an end-to-end implementation of M-Pesa Integration. It covers the entire process from setting up Paybill/Till credentials, integrating with M-Pesa APIs, handling callbacks, to checking the status of payments.
 
